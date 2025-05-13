@@ -24,7 +24,7 @@ You can use [web interface](http://nlp.urdu.uz/?menu=uznltk).
 - Morphological annotated dataset
 - Help function
 
-# uznltk kkk
+# uznltk
 
  Natural Language Toolkit for Uzbek O‘zbek tili uchun NLP kutubxonasi
 
