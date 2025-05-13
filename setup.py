@@ -23,7 +23,6 @@ setup(
     install_requires=[
         "requests",
         "UzMorphAnalyser"
-        "dewew"
     ],
     include_package_data=True,
     license="MIT",
