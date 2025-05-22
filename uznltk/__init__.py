@@ -10,6 +10,8 @@ from ._clean import clean_text
 from ._ssign import solid_sign
 from ._syllable import syllables, hyphenation, count, count_text
 
+
+
 # # Faqat funksiyalarni eksport qilamiz
 # __all__ = [
 #     'stop_word',
