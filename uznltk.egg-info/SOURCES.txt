@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+uznltk/__init__.py
+uznltk/_clean.py
+uznltk/_download.py
+uznltk/_lemmatizer.py
+uznltk/_stem.py
+uznltk/_stop_words.py
+uznltk/_syllable.py
+uznltk/_tokenizer.py
+uznltk.egg-info/PKG-INFO
+uznltk.egg-info/SOURCES.txt
+uznltk.egg-info/dependency_links.txt
+uznltk.egg-info/requires.txt
+uznltk.egg-info/top_level.txt

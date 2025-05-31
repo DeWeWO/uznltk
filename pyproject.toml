@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "uznltk"
+version = "0.0.10"
+description = "description"
+authors = ["Ulugbek Salaev"]
